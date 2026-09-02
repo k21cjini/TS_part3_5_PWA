@@ -1,0 +1,12 @@
+{
+  "name":"EngSpeak 영어 말하기",
+  "short_name":"EngSpeak",
+  "description":"토익스피킹 Part 3·5 영어 말하기 생각하기 훈련",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#F9F7FC",
+  "theme_color":"#6750A4",
+  "icons":[{"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
